@@ -8,7 +8,7 @@
     "files": [
         "driver.ts"
     ],
-    "public": true,
+    "public": true
     
   
 }
