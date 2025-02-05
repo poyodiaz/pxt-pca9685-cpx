@@ -1,0 +1,15 @@
+{
+    "name": "pxt-pca9685-cpx",
+    "version": "0.0.1",
+    "description": "Controlador PCA9685 para Adafruit Circuit Playground Express",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "driver.ts"
+    ],
+    "testFiles": [],
+    "public": true,
+    
+  
+}
